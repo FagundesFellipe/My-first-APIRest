@@ -7,5 +7,5 @@ Minha primeira API REST desenvolvida. Esse é um projeto simples, que visa reali
 • Node.js 12 • mariaDB • JWT • Express 
 
 # Instalação
-npm install //para instalar dependências 
-npm run dev // para executar o projeto
+  - npm install //para instalar dependências 
+  - npm run dev // para executar o projeto
